@@ -3,7 +3,7 @@
 A new Flutter project.
 
 # Create a statusbar using appbar?
-
+```
 class _homePageState extends State<homePage> {
 
   @override
@@ -22,5 +22,29 @@ class _homePageState extends State<homePage> {
     );
   }
 }
+```
+# Create a statusbar without appbar?
+```
+class _homePageState extends State<homePage> {
 
+  @override
+  
+  Widget build(BuildContext context) {
+    
+    SystemChrome.setSystemUIOverlayStyle(
+      SystemUiOverlayStyle(
+        statusBarColor: Colors.teal,
 
+      )
+
+    );
+    SystemChrome.setPreferredOrientations([
+      DeviceOrientation.landscapeLeft,
+      DeviceOrientation.landscapeRight
+    ]);
+    return Scaffold(
+
+    );
+  }
+}
+```
