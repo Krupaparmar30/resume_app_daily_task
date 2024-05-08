@@ -130,6 +130,43 @@ void main()
 
 }
 ```
+* Genrice
+
+->
+provide a way to write reusable code that can work with different types.
+
+* Example:
+```
+void main()
+
+{
+  
+    List<String> names=['krupa','jinal','sneha','prathna','nikita'];
+    
+    print(names);
+ 
+}
+```
+* Map
+
+-> Map is an object that stores data in the form of a key-value pair.
+
+* Example:
+```
+void main()
+
+{
+    Map n1={
+
+    'product_name':'HP laptop',
+    'price':500000,
+  
+    };
+    print(n1['price']);
+
+}
+
+```
 # Create a statusbar using appbar?
 ```
 class _homePageState extends State<homePage> {
