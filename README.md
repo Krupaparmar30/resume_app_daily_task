@@ -11,7 +11,7 @@ A new Flutter project.
 -> List is user defained datatype.
 
 * Example:
-```
+```javascript
 void main()
 
 {
@@ -26,7 +26,7 @@ void main()
 
  ->
  Lenght of List
- ```
+ ```javascript
 void main()
 {
 
@@ -37,7 +37,7 @@ void main()
  ```
 ->
  Add to List
- ```
+ ```javascript
 void main()
 {
 
@@ -49,7 +49,7 @@ void main()
 ```
 ->
 Add to all of List(multiple values)
-```
+```javascript
 void main()
 {
 
@@ -61,7 +61,7 @@ void main()
 ```
 ->
 Remove of List
-```
+```javascript
 void main()
 {
 
@@ -73,7 +73,7 @@ void main()
 ```
 -> 
 Remove At of List
-```
+```javascript
 void main()
 {
 
@@ -84,7 +84,7 @@ void main()
 ```
 ->
 Remove The Last element of List
-```
+```javascript
 void main()
 {
 
@@ -96,7 +96,7 @@ void main()
 ```
 ->
 Insert the value in List
-```
+```javascript
 void main()
 {
 
@@ -108,7 +108,7 @@ void main()
 ```
 ->
 Insert the multiple values in List
-```
+```javascript
 void main()
 {
 
@@ -119,7 +119,7 @@ void main()
 }
 ```
 -> Show datatype of List
-```
+```javascript
 void main()
 {
 
@@ -136,7 +136,7 @@ void main()
 provide a way to write reusable code that can work with different types.
 
 * Example:
-```
+```javascript
 void main()
 
 {
@@ -152,7 +152,7 @@ void main()
 -> Map is an object that stores data in the form of a key-value pair.
 
 * Example:
-```
+```javascript
 void main()
 
 {
@@ -169,7 +169,7 @@ void main()
 * predefine methods of Map
 
 ->Lenght of Map
-```
+```javascript
 void main()
 {
 
@@ -185,7 +185,7 @@ void main()
 
 ```
 # Create a statusbar using appbar?
-```
+```javascript
 class _homePageState extends State<homePage> {
 
   @override
