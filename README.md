@@ -206,7 +206,7 @@ class _homePageState extends State<homePage> {
 }
 ```
 # Create a statusbar without appbar?
-```
+```javascript
 class _homePageState extends State<homePage> {
 
   @override
