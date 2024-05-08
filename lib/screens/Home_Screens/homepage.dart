@@ -1,3 +1,4 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
@@ -19,8 +20,8 @@ class _homePageState extends State<homePage> {
 
     );
     SystemChrome.setPreferredOrientations([
-      DeviceOrientation.landscapeLeft,
-      DeviceOrientation.landscapeRight
+      // DeviceOrientation.landscapeLeft,
+      // DeviceOrientation.landscapeRight
     ]);
     return Scaffold(
       // appBar: AppBar(
@@ -31,6 +32,23 @@ class _homePageState extends State<homePage> {
       //     systemNavigationBarColor:Colors.teal,
       //   ),
       // ),
+      body: Column(
+        children: [
+          GestureDetector(
+            onTap: () {
+              Navigator.of(context).pushNamed('/drawer');
+            },
+            child: Container(
+              height: 100,
+              width: 100,
+              decoration: BoxDecoration(
+                color: Colors.pink,
+              ),
+              child: Text('Drewer app'),
+            ),
+          )
+        ],
+      ),
     );
   }
 }

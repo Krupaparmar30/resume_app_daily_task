@@ -13,7 +13,7 @@ class ResumeApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      routes:AppRoutes.routes
+      routes:AppRoutes.routes,
     );
   }
 }
