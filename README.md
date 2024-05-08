@@ -182,6 +182,46 @@ void main()
     print(n1.length);
     
 }
+```
+List of Map
+```javascript
+void main()
+{
+  
+        List <dynamic> l1=[
+        {
+              'name':'krupa parmar',
+              'roll_number':18,
+              'age':18,
+              'course':'Flutter devloper'
+
+        },
+          {
+              'name':'prachi singh',
+              'roll_number':22,
+              'age':19,
+              'course':'ui-ux devloper'
+              
+        },
+          {
+              'name':'mohoni parmar',
+              'roll_number':22,
+              'age':21,
+              'course':'Flutter devloper'
+              
+        },
+
+
+
+        ];
+   
+    for(int i=0; i<l1.length; i++)
+    {
+        print(l1[i]);
+    }
+
+ 
+}
 
 ```
 # Create a statusbar using appbar?
