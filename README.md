@@ -147,7 +147,7 @@ void main()
  
 }
 ```
-* Map
+# `Map`
 
 -> Map is an object that stores data in the form of a key-value pair.
 
