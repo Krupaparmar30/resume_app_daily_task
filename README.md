@@ -165,6 +165,23 @@ void main()
     print(n1['price']);
 
 }
+```
+* predefine methods of Map
+
+->Lenght of Map
+```
+void main()
+{
+
+    Map n1={
+
+    'product_name':'HP laptop',
+    'price':500000,
+    
+    };
+    print(n1.length);
+    
+}
 
 ```
 # Create a statusbar using appbar?
