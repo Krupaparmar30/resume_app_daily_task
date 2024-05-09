@@ -1,4 +1,4 @@
-![Screenshot_20240509_130343](https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/1260208f-000f-4e0d-b2f2-d86c1a5143e9)![Screenshot_20240509_130332](https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/a9dac348-badb-48c0-ade3-fd7fa54d443f)# resume_app_daily_task
+# resume_app_daily_task
 
 A new Flutter project.
 # What is List and Map ?
