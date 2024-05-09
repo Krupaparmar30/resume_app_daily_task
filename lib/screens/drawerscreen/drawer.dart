@@ -21,7 +21,15 @@ class _drawerPageState extends State<drawerPage> {
        children: [
          DrawerHeader(child: Padding(
            padding:  EdgeInsets.only(right:190),
-           child: Text('Gmail',style: TextStyle(fontSize: 28,color: Colors.red),),
+           child: Column(
+             children: [
+               Text('Gmail',style: TextStyle(fontSize: 28,color: Colors.red),),
+               Padding(
+                 padding: EdgeInsets.all(8.0),
+                 child: Text('Hi Krupa',style: TextStyle(fontSize: 20,color: Colors.black54),),
+               ),
+             ],
+           )
          )),
         ListTile(
           leading: Icon(Icons.all_inbox),
