@@ -1,4 +1,4 @@
-# resume_app_daily_task
+![Screenshot_20240509_130343](https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/1260208f-000f-4e0d-b2f2-d86c1a5143e9)![Screenshot_20240509_130332](https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/a9dac348-badb-48c0-ade3-fd7fa54d443f)# resume_app_daily_task
 
 A new Flutter project.
 # What is List and Map ?
@@ -276,4 +276,13 @@ class _homePageState extends State<homePage> {
 <p>
       <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/f8853112-5a51-4c46-875e-007c90fc0169"width=22% height=35%>
 
+</p>
+# Login Pages
+<p>
+ <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/ff4c7085-5990-47e1-87a1-b987c004291c"width=22% height=35%>
+  <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/c9664ea4-254a-45db-963d-f9e52b200b76"width=22% height=35%>
+
+
+
+    
 </p>
