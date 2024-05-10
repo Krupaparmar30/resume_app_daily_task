@@ -21,7 +21,7 @@ class _loginPageState extends State<loginPage> {
                 height: 756,
                 width: 500,
                 decoration: BoxDecoration(
-                  color: Color(0xffffe401),
+                  color: Colors.white,
 
                 ),
                 child: Column(
@@ -49,7 +49,7 @@ class _loginPageState extends State<loginPage> {
                         height: 200,
                         width:500,
                         decoration: BoxDecoration(
-                          color: Color(0xffffe401),
+                          color:Colors.white,
 
                         ),
                         child: Column(
