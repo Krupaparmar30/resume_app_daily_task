@@ -295,7 +295,11 @@ https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/ce6a3ece
 
 screen_recording_google_pages
 
-https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/aae9e16b-5c8f-4b2c-96c0-25d6170d4d80
+
+
+https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/16f8dd5d-a4bd-48b3-a16b-bb0e6d9d9194
+
+
 
 
 
