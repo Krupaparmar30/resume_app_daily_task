@@ -25,8 +25,8 @@ class _passwordPageState extends State<passwordPage> {
                   child: Padding(
                     padding: const EdgeInsets.only(top: 150),
                     child: Container(
-                      height: 300,
-                      width: 600,
+                      height: 310,
+                      width: 620,
                       decoration: BoxDecoration(
                         color: Colors.white,
                         borderRadius: BorderRadius.circular(10),
@@ -75,7 +75,7 @@ class _passwordPageState extends State<passwordPage> {
                               Padding(
                                 padding: const EdgeInsets.only(top: 75, left: 30),
                                 child: Container(
-                                  height: 200,
+                                  height: 230,
                                   width: 380,
                                   decoration: BoxDecoration(
                                       color: Colors.white,
