@@ -285,5 +285,16 @@ class _homePageState extends State<homePage> {
 
 https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/ce6a3ece-2465-4db9-8953-05e5ec3a3738
 
+# Email_password_pages
+<p>
+  <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/9d306feb-f246-47b9-9a4e-933b5b6da33d"width=42% height=30%>
+  <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/2b9e7398-3303-42b0-82ed-11f00a948396"width=42% height=30%>
+  <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/1ac3ca20-5ea8-450f-a380-47459467fa88"width=42% height=30%>
+  <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/53c73129-3703-458c-b0b3-6cf07c38ca52"width=42% height=45%>
 
+
+
+
+
+</p>
 
