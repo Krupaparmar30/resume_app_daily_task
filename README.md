@@ -291,10 +291,11 @@ https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/ce6a3ece
   <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/2b9e7398-3303-42b0-82ed-11f00a948396"width=42% height=30%>
   <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/1ac3ca20-5ea8-450f-a380-47459467fa88"width=42% height=30%>
   <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/53c73129-3703-458c-b0b3-6cf07c38ca52"width=42% height=45%>
-
-
-
-
-
 </p>
+
+screen_recording_google_pages
+
+https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/aae9e16b-5c8f-4b2c-96c0-25d6170d4d80
+
+
 
