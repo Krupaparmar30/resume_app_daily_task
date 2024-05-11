@@ -27,8 +27,8 @@ class _googleEmailPasswordPageState extends State<googleEmailPasswordPage> {
                   child: Padding(
                     padding: const EdgeInsets.only(top: 150),
                     child: Container(
-                      height: 300,
-                      width: 600,
+                      height: 310,
+                      width: 620,
                       decoration: BoxDecoration(
                         color: Colors.white,
                         borderRadius: BorderRadius.circular(10),
@@ -77,7 +77,7 @@ class _googleEmailPasswordPageState extends State<googleEmailPasswordPage> {
                               Padding(
                                 padding: const EdgeInsets.only(top: 75, left: 30),
                                 child: Container(
-                                  height: 200,
+                                  height: 230,
                                   width: 380,
                                   decoration: BoxDecoration(
                                       color: Colors.white,
@@ -101,10 +101,14 @@ class _googleEmailPasswordPageState extends State<googleEmailPasswordPage> {
                                             {
                                               return 'value should be more than 8';
                                             }
-                                          // else if(value.characters!='gmail.com')
-                                          //   {
-                                          //     return 'enter @gmail.com';
-                                          //   }
+                                          else if(!value.contains('@gmail.com'))
+                                            {
+                                              return 'field the @gmail.com';
+                                            }
+                                          else if(value.toString()=='gmail.com')
+                                            {
+                                              return 'enter @';
+                                            }
 
 
                                         },
@@ -114,6 +118,7 @@ class _googleEmailPasswordPageState extends State<googleEmailPasswordPage> {
 
 
                                             labelText: 'Email Or Phone',
+
                                             border: OutlineInputBorder(
                                               borderSide: BorderSide(
                                                   color: Colors.black
@@ -213,15 +218,27 @@ class _googleEmailPasswordPageState extends State<googleEmailPasswordPage> {
                                                 child: Center(child: Text('Next',style: TextStyle(color: Colors.white,fontSize: 18),)),
                                               ),
                                             ),
-                                          )
+                                          ),
+
                                         ],
-                                      )
+                                      ),
+                                      SizedBox(
+                                        height: 2,
+                                      ),
+                                      GestureDetector(onTap: () {
+                                        email=txtEmail.text;
+                                        Navigator.of(context).pushNamed('/details');
+                                      },child: Padding(
+                                        padding: const EdgeInsets.only(left: 50),
+                                        child: Text('Show Details',style: TextStyle(color: Colors.blue.shade900),),
+                                      ))
                                     ],
                                   ),
                                 ),
                               )
                             ],
                           ),
+                         
                         ],
                       ),
                     ),

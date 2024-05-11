@@ -11,6 +11,7 @@ import 'dart:js';
 import 'package:flutter/material.dart';
 import 'package:resume_app_daily_task/screens/Home_Screens/homepage.dart';
 import 'package:resume_app_daily_task/screens/drawerscreen/drawer.dart';
+import 'package:resume_app_daily_task/screens/google_email_password/details_page.dart';
 import 'package:resume_app_daily_task/screens/google_email_password/email_password.dart';
 import 'package:resume_app_daily_task/screens/google_email_password/last.dart';
 import 'package:resume_app_daily_task/screens/google_email_password/password.dart';
@@ -26,6 +27,7 @@ class AppRoutes{
     // '/':(context)=>loginPage(),
     // '/login2':(context)=>loginScreen(),
     '/':(context)=>googleEmailPasswordPage(),
+    '/details':(context)=>detailsPage(),
     '/pass':(context)=>passwordPage(),
     '/var':(context)=>verifictioinPage(),
     '/last':(context)=>lastPage(),

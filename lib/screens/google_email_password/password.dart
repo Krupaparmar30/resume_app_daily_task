@@ -107,7 +107,8 @@ class _passwordPageState extends State<passwordPage> {
 
                                         },
                                         controller: txtPassword,
-                                        keyboardType: TextInputType.emailAddress,
+                                        keyboardType: TextInputType.number,
+                                        obscureText: true,
 
                                         style: TextStyle(height: 1),
                                         decoration: InputDecoration(
@@ -115,7 +116,7 @@ class _passwordPageState extends State<passwordPage> {
 
 
                                             labelText: 'password',
-                                            hintText: '1234@krupa',
+                                            hintText: '123456789',
                                             border: OutlineInputBorder(
                                               borderSide: BorderSide(
                                                   color: Colors.black
@@ -198,9 +199,10 @@ class _passwordPageState extends State<passwordPage> {
                                                 if(responce)
                                                 {
                                                   password=txtPassword.text;
+                                                  Navigator.of(context).pushNamed('/var');
+
 
                                                 }
-                                               Navigator.of(context).pushNamed('/var');
 
 
                                               },
@@ -216,6 +218,12 @@ class _passwordPageState extends State<passwordPage> {
                                             ),
                                           )
                                         ],
+                                      ),
+                                      Padding(
+                                        padding: const EdgeInsets.only(left: 25),
+                                        child: GestureDetector(onTap: () {
+                                          Navigator.of(context).pushNamed('/details');
+                                        },child: Text('Show Details',style: TextStyle(color: Colors.blue.shade900),)),
                                       )
                                     ],
                                   ),
