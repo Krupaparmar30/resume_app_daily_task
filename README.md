@@ -298,6 +298,14 @@ screen_recording_google_pages
 https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/817ee482-059e-43b5-a77c-375ed9e3375d
 
 
+# SnackBar
+<p>
+    <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/9b5aaef6-1755-47c4-8b7f-fdd954b88b52">
+
+</p>
+
+https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/400a6621-2024-46b3-8a57-e842bd4a672a
+
 
 
 
