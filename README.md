@@ -300,7 +300,7 @@ https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/817ee482
 
 # SnackBar
 <p>
-    <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/9b5aaef6-1755-47c4-8b7f-fdd954b88b52">
+    <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/9b5aaef6-1755-47c4-8b7f-fdd954b88b52"width=22% height=35%>
 
 </p>
 
