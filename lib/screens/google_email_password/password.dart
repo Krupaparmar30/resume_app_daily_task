@@ -200,7 +200,10 @@ class _passwordPageState extends State<passwordPage> {
                                                 {
                                                   password=txtPassword.text;
                                                   Navigator.of(context).pushNamed('/var');
+                                                  setState(() {
+                                                    ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('Your Password created successfuly!!',style: TextStyle(fontSize: 18),),backgroundColor: Colors.blue.shade900,));
 
+                                                  });
 
                                                 }
 

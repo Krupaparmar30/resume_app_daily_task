@@ -31,14 +31,14 @@ class AppRoutes{
 
 
     //todo - google_email_password_verificatioin_pages
-    // '/':(context)=>googleEmailPasswordPage(),
-    // '/details':(context)=>detailsPage(),
-    // '/pass':(context)=>passwordPage(),
-    // '/var':(context)=>verifictioinPage(),
-    // '/last':(context)=>lastPage(),
+    '/':(context)=>googleEmailPasswordPage(),
+    '/details':(context)=>detailsPage(),
+    '/pass':(context)=>passwordPage(),
+    '/var':(context)=>verifictioinPage(),
+    '/last':(context)=>lastPage(),
 
     //todo - sneckbar_pages
-    '/':(context)=>snekbarPage(),
+    // '/':(context)=>snekbarPage(),
 
   };
 }
