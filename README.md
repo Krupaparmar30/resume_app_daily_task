@@ -318,6 +318,11 @@ https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/400a6621
 <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/0d51ce1d-82ec-4336-8c49-f42b03ac81c2"width=22% height=35%>
 
 </p>
+https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/89e8c691-568d-4bd0-9142-eece0778d78d
+https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/cff42c43-eb07-468d-a4b5-2cf9ba8234f7
+
+
+
 
 
 
