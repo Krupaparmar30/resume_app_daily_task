@@ -311,8 +311,13 @@ https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/817ee482
 
 https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/400a6621-2024-46b3-8a57-e842bd4a672a
 
+# Image Picker
 
+<p>
+<img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/db84202a-1053-4cef-b206-f69701818e5f"width=22% height=35%>
+<img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/0d51ce1d-82ec-4336-8c49-f42b03ac81c2"width=22% height=35%>
 
+</p>
 
 
 
