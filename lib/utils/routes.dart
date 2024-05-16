@@ -8,8 +8,11 @@
 
 
 
+import 'dart:js';
+
 import 'package:flutter/material.dart';
 import 'package:resume_app_daily_task/screens/Home_Screens/homepage.dart';
+import 'package:resume_app_daily_task/screens/Redio_cheakbox/redio_cheakbox.dart';
 import 'package:resume_app_daily_task/screens/drawerscreen/drawer.dart';
 import 'package:resume_app_daily_task/screens/google_email_password/details_page.dart';
 import 'package:resume_app_daily_task/screens/google_email_password/email_password.dart';
@@ -28,8 +31,8 @@ class AppRoutes{
 
 
      //todo - login pages
-    '/':(context)=>loginPage(),
-    '/login2':(context)=>loginScreen(),
+    // '/':(context)=>loginPage(),
+    // '/login2':(context)=>loginScreen(),
 
 
     //todo - google_email_password_verificatioin_pages
@@ -42,7 +45,11 @@ class AppRoutes{
     //todo - sneckbar_pages
     // '/':(context)=>snekbarPage(),
 
-
+ //todo - image_picker
    // '/':(context)=>imagepickerPage(),
+
+    //todo - redioCheakboxPage
+
+    '/':(context)=>redioCheakboxPage(),
   };
 }
