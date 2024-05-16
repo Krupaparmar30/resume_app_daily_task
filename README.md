@@ -279,11 +279,11 @@ class _homePageState extends State<homePage> {
 </p>
 # Login Pages
 <p>
- <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/ff4c7085-5990-47e1-87a1-b987c004291c"width=22% height=35%>
-  <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/c9664ea4-254a-45db-963d-f9e52b200b76"width=22% height=35%>
+ <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/72945119-d2df-4cea-931e-25a8ab0afa67"width=22% height=35%>
+ <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/c9664ea4-254a-45db-963d-f9e52b200b76"width=22% height=35%>
 </p>
 
-https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/ce6a3ece-2465-4db9-8953-05e5ec3a3738
+https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/d5c25ee5-64b4-4569-a463-809b16120f7c
 
 # Email_password_pages
 <p>
@@ -310,6 +310,19 @@ https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/817ee482
 </p>
 
 https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/400a6621-2024-46b3-8a57-e842bd4a672a
+
+# Image Picker
+
+<p>
+<img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/db84202a-1053-4cef-b206-f69701818e5f"width=22% height=35%>
+<img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/0d51ce1d-82ec-4336-8c49-f42b03ac81c2"width=22% height=35%>
+
+</p>
+
+https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/89e8c691-568d-4bd0-9142-eece0778d78d
+
+https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/cff42c43-eb07-468d-a4b5-2cf9ba8234f7
+
 
 
 
