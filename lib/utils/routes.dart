@@ -28,8 +28,8 @@ class AppRoutes{
 
 
      //todo - login pages
-    // '/':(context)=>loginPage(),
-    // '/login2':(context)=>loginScreen(),
+    '/':(context)=>loginPage(),
+    '/login2':(context)=>loginScreen(),
 
 
     //todo - google_email_password_verificatioin_pages
@@ -43,6 +43,6 @@ class AppRoutes{
     // '/':(context)=>snekbarPage(),
 
 
-   '/':(context)=>imagepickerPage(),
+   // '/':(context)=>imagepickerPage(),
   };
 }

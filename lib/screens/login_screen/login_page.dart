@@ -71,11 +71,11 @@ class _loginPageState extends State<loginPage> {
                                         height: 50,
                                         width: 130,
                                         decoration: BoxDecoration(
-                                          color: Color(0xffffe401),
+                                          color: Colors.black,
                                           borderRadius: BorderRadius.circular(10),
                                           border: Border.all(color: Colors.black,width: 2)
                                         ),
-                                        child: Center(child: Text('Login',style: TextStyle(fontSize: 22),)),
+                                        child: Center(child: Text('Login',style: TextStyle(fontSize: 22,color: Colors.white),)),
                                       ),
                                     ),
 
