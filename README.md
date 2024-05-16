@@ -279,8 +279,8 @@ class _homePageState extends State<homePage> {
 </p>
 # Login Pages
 <p>
- <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/ff4c7085-5990-47e1-87a1-b987c004291c"width=22% height=35%>
-  <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/c9664ea4-254a-45db-963d-f9e52b200b76"width=22% height=35%>
+ <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/72945119-d2df-4cea-931e-25a8ab0afa67"width=22% height=35%>
+ <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/c9664ea4-254a-45db-963d-f9e52b200b76"width=22% height=35%>
 </p>
 
 https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/ce6a3ece-2465-4db9-8953-05e5ec3a3738
