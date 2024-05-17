@@ -8,9 +8,10 @@
 
 
 
-import 'dart:js';
+
 
 import 'package:flutter/material.dart';
+import 'package:resume_app_daily_task/screens/Generate%20Dynamic%20Text%20Field/dynamic_text_field.dart';
 import 'package:resume_app_daily_task/screens/Home_Screens/homepage.dart';
 import 'package:resume_app_daily_task/screens/Redio_cheakbox/redio_cheakbox.dart';
 import 'package:resume_app_daily_task/screens/drawerscreen/drawer.dart';
@@ -50,6 +51,10 @@ class AppRoutes{
 
     //todo - redioCheakboxPage
 
-    '/':(context)=>redioCheakboxPage(),
+    // '/':(context)=>redioCheakboxPage(),
+
+    //todo -dynamic_text_fieldPage
+    '/':(context)=>dynamic_text_fieldPage(),
+
   };
 }
