@@ -331,6 +331,8 @@ https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/cff42c43
 
 </p>
 
+https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/e24b8cfe-3f61-4f0b-974e-637d92d2320a
+
 
 
 
