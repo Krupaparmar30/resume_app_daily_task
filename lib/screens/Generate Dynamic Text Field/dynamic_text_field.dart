@@ -160,7 +160,7 @@ class _dynamic_text_fieldPageState extends State<dynamic_text_fieldPage> {
             skills=skills+ " " +txtControllerList[i].text;
           }
           print(skills);
-           ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('${skills}${txtControllerList[1].text}',style: TextStyle(
+           ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('${skills}${txtControllerList.length}',style: TextStyle(
              color: Colors.white,fontSize: 18
            ),)));
         },
