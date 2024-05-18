@@ -326,7 +326,7 @@ https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/cff42c43
 # Dynamic_text_fieldPage
 
 <p>
-    <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/8c587230-86be-487f-bf86-0aca1f49e18f"width=22% height=35%>
+    <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/8c587230-86be-487f-bf86-0aca1f49e18f"width=22% height=35%><br>
     <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/9c98922c-60de-4060-bc37-c49694fa9ea1"width=22% height=35%>
 
 </p>
