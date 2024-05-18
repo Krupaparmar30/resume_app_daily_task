@@ -95,6 +95,7 @@ class _dynamic_text_fieldPageState extends State<dynamic_text_fieldPage> {
             title: TextField(
                    controller: txtControllerList[index],
               decoration: InputDecoration(
+                hintText: 'Enter the your choies programming lagauges',
                 border: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(10),
                   borderSide: BorderSide(
