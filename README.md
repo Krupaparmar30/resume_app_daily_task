@@ -326,10 +326,14 @@ https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/cff42c43
 # Dynamic_text_fieldPage
 
 <p>
-    <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/8c587230-86be-487f-bf86-0aca1f49e18f"width=22% height=35%>
+    <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/8c587230-86be-487f-bf86-0aca1f49e18f"width=22% height=35%><br>
+    <img src="https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/9c98922c-60de-4060-bc37-c49694fa9ea1"width=22% height=35%>
+
 </p>
 
-https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/6725ba0d-d50b-4eef-9965-7b640de5194a
+https://github.com/Krupaparmar30/resume_app_daily_task/assets/149374671/e24b8cfe-3f61-4f0b-974e-637d92d2320a
+
+
 
 
 
